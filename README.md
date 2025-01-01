@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankush Bhatt</h1>
+<h1 align="center">Hi, I'm Ankush Bhatt</h1>
 <h3 align="center">Master Student of Data Science at Technische Universität Braunschweig.</h3>
 <h4 align="center">Passionate and Curious Data Scientist.</h4>
 
