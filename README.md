@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankush Bhatt</h1>
-<h3 align="center">Master Student of Data Science at Technische Universität Braunschweig. Passionate and Curious Data Scientist.</h3>
+<h3 align="center">Master Student of Data Science at Technische Universität Braunschweig.</h3>
+<h4 align="center">Passionate and Curious Data Scientist.</h4>
 
 <p align="left"> <a href="https://twitter.com/ankushbhatt_" target="blank"><img src="https://img.shields.io/twitter/follow/ankushbhatt_?logo=twitter&style=for-the-badge" alt="ankushbhatt_" /></a> </p>
 
