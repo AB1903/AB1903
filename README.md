@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankush Bhatt</h1>
+<h1 align="center">Hi, I'm Ankush Bhatt</h1>
 <h3 align="center">Master Student of Data Science at Technische Universität Braunschweig.</h3>
 <h4 align="center">Passionate and Curious Data Scientist.</h4>
 
@@ -25,7 +25,7 @@
 
 ###
 
-<div align="center">
+<div align="text-align: left;">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
